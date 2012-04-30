@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManiaLink.Extensions", "ManiaLink.Extensions\ManiaLink.Extensions.csproj", "{9A8DE844-B3EC-4856-94A6-FD0D4CCADA80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCExample", "MVCExample\MVCExample.csproj", "{C8B141A6-E3FF-4EA3-A7D5-3F6DD9959DB2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A8DE844-B3EC-4856-94A6-FD0D4CCADA80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A8DE844-B3EC-4856-94A6-FD0D4CCADA80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A8DE844-B3EC-4856-94A6-FD0D4CCADA80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A8DE844-B3EC-4856-94A6-FD0D4CCADA80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8B141A6-E3FF-4EA3-A7D5-3F6DD9959DB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8B141A6-E3FF-4EA3-A7D5-3F6DD9959DB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8B141A6-E3FF-4EA3-A7D5-3F6DD9959DB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8B141A6-E3FF-4EA3-A7D5-3F6DD9959DB2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

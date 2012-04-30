@@ -1,0 +1,9 @@
+﻿@{
+	// Set the content type to XML.
+	Context.Response.ContentType = "text/xml";
+}
+<?xml version="1.0" encoding="utf-8" ?>
+<manialink version="1" background="0">
+	<timeout>0</timeout>
+	@RenderBody()
+</manialink>
